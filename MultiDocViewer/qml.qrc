@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>htm/001.html</file>
+        <file>htm/002.html</file>
+        <file>ToolSeparator.qml</file>
+    </qresource>
+</RCC>
